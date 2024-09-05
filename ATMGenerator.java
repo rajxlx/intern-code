@@ -6,7 +6,7 @@ public class ATMGenerator{
 	{
 	 Scanner sc=new Scanner(System.in);
 	 System.out.println("Welcome to Our ATM!!!  \nInsert Your ATM Card  \n Make the Transation Safe!!");
-	 System.out.println("1]DEPOSIT            //Deposit More than Rs.500   \n2]WITHDRAWAL         //WithDrawal Minimum Rs.500");
+	 System.out.println("1]DEPOSIT            //Deposit More than Rs.500   \n2]WITHDRAWAL         //WithDrawal Minimum Rs.1000");
 	 System.out.println("3]CHECK BALANCE      \n4]EXIT");
 	 System.out.println();
 	 boolean last=true;
